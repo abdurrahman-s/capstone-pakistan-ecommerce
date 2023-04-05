@@ -71,5 +71,5 @@ Based on these conclusions, we recommend the following strategies for emerging s
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
 
-License
+## License
 This project is licensed under the MIT License. Please read the license file for more information on using this project.
