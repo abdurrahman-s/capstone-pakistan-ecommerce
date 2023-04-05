@@ -47,6 +47,8 @@ To run the notebook, follow these steps:
 - Run the cells in the notebook to explore the analysis and visualizations.
 
 ## Results
+For the visualization of the dataset, you can visit this tableau [link.](https://public.tableau.com/views/Capstone2_PakistanDataset/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
 Based on the analysis, we draw the following conclusions:
 
 - Out of 584,496 order records, 54% are successful (completed, received), while the remaining 46% are unsuccessful (canceled, refunded).
