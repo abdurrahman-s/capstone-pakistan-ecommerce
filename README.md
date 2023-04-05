@@ -33,6 +33,7 @@ Python 3.x
 - seaborn
 - plotly
 - scipy
+ 
 You can install the required libraries using pip:
 
 `pip install jupyter pandas numpy matplotlib seaborn`
