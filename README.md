@@ -35,8 +35,7 @@ Python 3.x
 - scipy
 You can install the required libraries using pip:
 
-`Copy code
-pip install jupyter pandas numpy matplotlib seaborn`
+`pip install jupyter pandas numpy matplotlib seaborn`
 
 ## Usage
 To run the notebook, follow these steps:
